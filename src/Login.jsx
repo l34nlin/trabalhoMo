@@ -17,7 +17,7 @@ const Login = () => {
     }
     const styles = StyleSheet.create({
         container2: {
-          backgroundColor:"#f11f",
+          backgroundColor:"#0fc",
           height: 40,
           margin: 6,
           borderWidth: 1,
